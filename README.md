@@ -28,3 +28,9 @@ This project aims to assist volleyball players in understanding and improving th
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/volleyball-jump-analysis.git
+
+
+2. Navigate to the project directory:
+   ```bash
+   git clone https://github.com/yourusername/volleyball-jump-analysis.git
+
